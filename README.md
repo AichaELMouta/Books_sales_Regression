@@ -41,7 +41,9 @@ The dataset contains multiple columns that provide different kinds of informatio
 ### Prerequisites
 
 Jupyter Notebook, Python, Libraries: Linear_regression, matplotlib, seaborn, sklearn.
-Create dashboard by using Tableau.
 
+# Create Dashboard by using Tableau :
+
+dashboard in Tableau Public: https://public.tableau.com/views/BookSales_17059677968310/Dashboard1?:language=fr-FR&:display_count=n&:origin=viz_share_link
 
 
